@@ -13,7 +13,7 @@ Projeto de Business Intelligence desenvolvido com base no dataset real da **Olis
 ![Análise Geográfica](Media/Pag2.png)
 
 ### Demonstração de Uso
-[Clique aqui para ver o vídeo de navegação](Media/Navegação.mp4)
+<video src="Media/Navegação.mp4" width="100%" controls></video>
 
 ---
 
