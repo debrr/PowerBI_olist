@@ -14,8 +14,7 @@ Projeto de Business Intelligence desenvolvido com base no dataset real da **Olis
 
 ### Demonstração de Uso
 
-[[Assista o vídeo de demonstração](https://github.com/debrr/PowerBI_olist/blob/main/Media/navegacao.mp4?raw=true)]
-
+[**Clique aqui para assistir ao vídeo de demonstração**](https://github.com/debrr/PowerBI_olist/blob/main/Media/navegacao.mp4)
 
 ---
 
