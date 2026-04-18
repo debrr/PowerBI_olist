@@ -6,13 +6,13 @@ Projeto de Business Intelligence desenvolvido com base no dataset real da **Olis
 
 ## Dashboard Preview
 
-### 📦 Impacto Logístico na Experiência
+### Impacto Logístico na Experiência
 ![Impacto Logístico](Media/Pag1.png)
 
-### 🌎 Análise Geográfica da Operação
+### Análise Geográfica da Operação
 ![Análise Geográfica](Media/Pag2.png)
 
-### 🎥 Demonstração de Uso
+### Demonstração de Uso
 [Clique aqui para ver o vídeo de navegação](Media/Navegação.mp4)
 
 ---
@@ -73,6 +73,7 @@ Focada em território e dispersão de dados.
 
 # Ferramentas Utilizadas
 
+* **SQL Server**
 * **Power BI**
 * **Power Query (M)** para limpeza e modelagem dos dados
 * **DAX** para criação de medidas de correlação e KPIs
