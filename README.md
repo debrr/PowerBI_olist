@@ -13,7 +13,7 @@ Projeto de Business Intelligence desenvolvido com base no dataset real da **Olis
 ![Análise Geográfica](Media/Pag2.png)
 
 ### Demonstração de Uso
-<video src="Media/navegacao.mp4" width="100%" controls></video>
+https://github.com/debrr/PowerBI_olist/blob/main/Media/navegacao.mp4?raw=true
 
 ---
 
