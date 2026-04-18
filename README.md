@@ -12,10 +12,6 @@ Projeto de Business Intelligence desenvolvido com base no dataset real da **Olis
 ### Análise Geográfica da Operação
 ![Análise Geográfica](Media/Pag2.png)
 
-### Demonstração de Uso
-
-[**Clique aqui para assistir ao vídeo de demonstração**](https://github.com/debrr/PowerBI_olist/blob/main/Media/navegacao.mp4)
-
 ---
 
 ## Objetivo do Projeto
